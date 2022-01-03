@@ -7,11 +7,11 @@ body{
 }
 
 h1 {
-    font-size: 12em;
+    font-size: 6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 10em;
+    font-size: 4em;
     line-height: 1.4em;
     color: #333;
 }
