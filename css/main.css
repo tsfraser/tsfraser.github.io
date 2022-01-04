@@ -10,7 +10,7 @@ body{
  top: 0; 
  left: 0; 
  height: 20vh; 
- width: 100vw; 
+ width: 80vw; 
  background-image:url('../img/TNG.png'); 
  background-position: center center; 
  z-index:-10; 
