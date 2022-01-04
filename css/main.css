@@ -11,7 +11,7 @@ background{
  left: 0; 
  height: 33vh; 
  width: 100vw; 
- background-image: url(/img/TNG.png); 
+ background-image: url(./img/TNG.png); 
  background-position: center center; 
  z-index:-10; 
 } 
