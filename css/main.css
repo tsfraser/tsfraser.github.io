@@ -11,7 +11,7 @@ background{
  left: 0; 
  height: 33vh; 
  width: 100vw; 
- background-image:url(TNG.PNG); 
+ background-image:url(https://tsfraser.github.io/css/TNG.PNG); 
  background-position: center center; 
  z-index:-10; 
 } 
