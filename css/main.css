@@ -10,13 +10,13 @@
 .header2{
   display: inline;
   background-color: white;
+  
   padding: 3px;
   width: 70%;
   margin: 0;
   position: relative;
-  left: 50%;
-  top: -15%;
-  transform: translate(-50%, -0%);
+  text-position: center center;
+
   border: 3px solid black;
   font-size: 48px;
 }
