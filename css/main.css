@@ -11,6 +11,7 @@
  z-index:-10; 
 } 
 
+<<<<<<< HEAD
 .headertext{
   display: inline;
   background-color: red;
@@ -25,13 +26,12 @@
   font-size: 48px;
 }
 
+=======
+>>>>>>> parent of 9b8db66... Update main.css
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background: #fff;
-    text-align: center;
-    color: black;
-    width: 40%;
 }
 
 body{
