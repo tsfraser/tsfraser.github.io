@@ -1,29 +1,4 @@
-
-.masthead{ 
- height: 200px; 
- width: 100%; 
- background-image:url('../img/TNG.png'); 
- background-position: center center; 
- z-index:-10; 
-} 
-
-.header2{
-  display: inline;
-  background-color: white;
-  
-  padding: 3px;
-  width: 70%;
-  margin: 0;
-  position: relative;
-  text-position: center center;
-
-  border: 3px solid black;
-  font-size: 48px;
-}
-
-.container{
-  position: relative;
-  top: 15%;
+head{
 }
 
 h1 {
