@@ -3,7 +3,7 @@
  position: absolute; 
  top: 0; 
  left: 0; 
- height: 20%; 
+ height: 200px; 
  width: 100%; 
  background-image:url('../img/TNG.png'); 
  background-position: center center; 
@@ -18,7 +18,7 @@
   margin: 0;
   position: absolute;
   left: 50%;
-  top: 45%;
+  top: 200;
   transform: translate(-50%, -0%);
   border: 3px solid black;
   font-size: 48px;
