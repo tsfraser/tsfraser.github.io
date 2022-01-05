@@ -2,6 +2,8 @@
     text-align: center;
     border: 5px solid black;
     width: 40%;
+    position: relative;
+    left: center;
     padding: 0 20px 0 20px;
 }
 
