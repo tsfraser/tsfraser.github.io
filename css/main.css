@@ -16,10 +16,25 @@ body{
  z-index:-10; 
 } 
 
+.header2{
+  display: inline;
+  background-color: white;
+  padding: 3px;
+  width: 70%;
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  transform: translate(-50%, -0%);
+  border: 3px solid black;
+  font-size: 48px;
+}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background: #fff
+    text-align: center;
 }
 p {
     font-size: 1.5em;
