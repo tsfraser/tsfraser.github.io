@@ -1,8 +1,5 @@
 
 .masthead{ 
- position: relative; 
- top: 0; 
- left: 0; 
  height: 200px; 
  width: 100%; 
  background-image:url('../img/TNG.png'); 
@@ -18,7 +15,7 @@
   margin: 0;
   position: relative;
   left: 50%;
-  top: 150px;
+  top: 45%;
   transform: translate(-50%, -0%);
   border: 3px solid black;
   font-size: 48px;
@@ -27,7 +24,7 @@
 
 .container{
   position: relative;
-  top: 25%;
+  top: 15%;
 }
 
 h1 {
